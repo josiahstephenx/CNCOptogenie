@@ -1,0 +1,4 @@
+PySide6  # Built into Python but listed here for completeness
+pyserial
+matplotlib
+pytest
